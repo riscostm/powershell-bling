@@ -7,7 +7,7 @@ A stylish and functional PowerShell profile that looks and feels almost as good 
 Execute the following command in an elevated PowerShell window to install the PowerShell profile:
 
 ```
-irm "https://github.com/riscostm/powershell-bling/main/setup.ps1" | iex
+irm "https://github.com/riscostm/powershell-bling/blob/921c3f86280ff27ea1c74da71cee6c9e411abcfd/setup.ps1" | iex
 ```
 
 ## 🛠️ Fix the Missing Font
